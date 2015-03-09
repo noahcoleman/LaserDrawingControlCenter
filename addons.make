@@ -1,0 +1,5 @@
+ofxGui
+ofxOpenCv
+ofxSvg
+ofxVectorGraphics
+ofxBlobTracker
